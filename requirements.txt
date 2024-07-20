@@ -1,13 +1,19 @@
-streamlit as st
- pandas as pd
-numpy as np
-matplotlib.pyplot as plt
-sklearn.model_selection import train_test_split
- sklearn.preprocessing import StandardScaler
- keras.models import Sequential
- keras.layers import Dense, Dropout
- keras.optimizers import Adam
- keras.metrics import MeanAbsoluteError
- keras.regularizers import l1, l2
- sklearn.metrics import mean_absolute_error, r2_score
+streamlit 
+pandas 
+numpy 
+matplotlib.pyplot 
+sklearn.model_selection  
+sklearn.preprocessing 
+StandardScaler
+keras.models 
+Sequential
+keras.layers 
+Dense, Dropout
+keras.optimizers 
+Adam
+keras.metrics 
+MeanAbsoluteError
+sklearn.metrics 
+mean_absolute_error, 
+r2_score
 tensorflow as tf
