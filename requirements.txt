@@ -8,12 +8,13 @@ StandardScaler
 keras.models 
 Sequential
 keras.layers 
-Dense, Dropout
+Dense
+Dropout
 keras.optimizers 
 Adam
 keras.metrics 
 MeanAbsoluteError
 sklearn.metrics 
-mean_absolute_error, 
+mean_absolute_error 
 r2_score
-tensorflow as tf
+tensorflow 
